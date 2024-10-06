@@ -19,9 +19,9 @@ body,
 }
 
 
-/* Handle */
+/* Handle  */ 
 ::-webkit-scrollbar-thumb {
-  background: #262e65;
+  background: #2c3679;
 }
 
 /* Handle on Hover */
